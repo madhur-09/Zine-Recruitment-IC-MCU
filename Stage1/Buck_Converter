@@ -1,0 +1,3 @@
+This Pcb uses the LM2576HV Buck Converter IC.
+Input range as high as 60V
+Output is a constant at 5V with 3A maximum output current.
