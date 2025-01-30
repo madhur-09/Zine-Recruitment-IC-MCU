@@ -1,0 +1,2 @@
+Custom MCU Board with USB to UART (FT232RL) ic and onboard voltage regulator.
+Also has one shift register (74CH595).
