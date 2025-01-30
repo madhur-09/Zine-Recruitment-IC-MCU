@@ -1,2 +1,3 @@
 Custom MCU Board with USB to UART (FT232RL) ic and onboard voltage regulator.
 Also has one shift register (74CH595).
+Board has headers for digital and analog IO, also has headers for SPI interface.
